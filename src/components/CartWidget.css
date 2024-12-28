@@ -1,0 +1,10 @@
+.cart-widget {
+  font-size: 1.5rem;
+  color: white;
+  cursor: pointer;
+  padding-right: 15px;
+}
+
+.cart-widget i {
+  color: white;
+}
